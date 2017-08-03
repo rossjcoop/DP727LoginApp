@@ -1,0 +1,39 @@
+html {box-sizing: border-box;}
+*, *:before, *:after {box-sizing: inherit;}
+
+
+
+body {
+  background-color: #60d9f1;
+  margin: 0;
+  padding: 0;
+}
+
+
+h1 {
+	text-align: center;
+	color: red;
+	font-family: courier, times;
+	font-size: 60px;
+}
+
+
+form {
+	margin: 0 auto;
+}
+
+
+span {
+	background color: red;
+	color: white;
+	font-family: courier, times;
+	font-weight: bold;
+	margin: 0 auto;
+}
+
+.container {
+	background-image: url(../images/ComputerRoss.jpg);
+	margin: 0 auto;
+	width: 500px;
+	height: 500px;
+}
